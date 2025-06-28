@@ -1,4 +1,4 @@
-![Airbnb Backend Features](features-and-functionalities/airbnb-backend-features.png)
+![Airbnb Backend Features](features-and-functionalities/Airbnb Clone Backend Features & Functionalities.drawio.png)
 
 
 
